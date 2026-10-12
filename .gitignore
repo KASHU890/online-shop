@@ -1,0 +1,14 @@
+node_modules
+dist
+dist-ssr
+*.local
+.vite
+
+# SQLite database (sensitive/auto-generated)
+server/data
+*.db
+*.db-wal
+*.db-shm
+
+.env
+.env.*
